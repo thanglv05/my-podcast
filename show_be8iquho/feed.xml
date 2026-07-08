@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://thanglv05.github.io/my-podcast/show_be8iquho/feed.xml" rel="self" type="application/rss+xml" />
+    <title>tenmiennhanhoa</title>
+    <description>Podcast này được tạo ra với mục tiêu chia sẻ những thông tin hữu ích, góc nhìn đa chiều và các nội dung mang tính giá trị dành cho nhiều đối tượng người nghe. Chúng tôi hướng đến sự rõ ràng, trung lập và dễ tiếp cận, giúp bạn tiếp nhận kiến thức và trải nghiệm mới một cách nhẹ nhàng và thực tế. Nội dung không giới hạn chủ đề, mang tính mở, linh hoạt và phù hợp để đồng hành cùng bạn trong học tập, công việc và cuộc sống hằng ngày.</description>
+    <link>https://thanglv05.github.io/my-podcast</link>
+    <language>vi</language>
+    <copyright>Copyright © 2026 tenmiennhanhoa</copyright>
+    
+    <itunes:author>tenmiennhanhoa</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Podcast này được tạo ra với mục tiêu chia sẻ những thông tin hữu ích, góc nhìn đa chiều và các nội dung mang tính giá trị dành cho nhiều đối tượng người nghe. Chúng tôi hướng đến sự rõ ràng, trung lập và dễ tiếp cận, giúp bạn tiếp nhận kiến thức và trải nghiệm mới một cách nhẹ nhàng và thực tế. Nội dung không giới hạn chủ đề, mang tính mở, linh hoạt và phù hợp để đồng hành cùng bạn trong học tập, công việc và cuộc sống hằng ngày.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    
+    <itunes:owner>
+      <itunes:name>tenmiennhanhoa</itunes:name>
+      <itunes:email>lambaoszw0l@likepion.com</itunes:email>
+    </itunes:owner>
+    
+    <itunes:image href="https://s3.likepion.com/data/lip/019f4063-7cc6-7770-924c-a444d9e48099.png" />
+    
+    <itunes:category text="Society &amp; Culture" />
+
+    <item>
+      <title>xin chao moi nguoi</title>
+      <description>Một tuần sau, người đệ tử trở lại, mặt vui vẻ hẳn khoe với sư phụ là đã làm được việc thương những người mà trước đây đã từng đối xử tệ bạc với mình. Sư phụ gật gù bảo: “Tốt! Bây giờ con về tịnh tâm, ghi ơn họ. Nếu không có họ đóng những vai trò đó thì con đâu có cơ hội tiến hóa tâm linh như vậy</description>
+      <content:encoded><![CDATA[Một tuần sau, người đệ tử trở lại, mặt vui vẻ hẳn khoe với sư phụ là đã làm được việc thương những người mà trước đây đã từng đối xử tệ bạc với mình. Sư phụ gật gù bảo: “Tốt! Bây giờ con về tịnh tâm, ghi ơn họ. Nếu không có họ đóng những vai trò đó thì con đâu có cơ hội tiến hóa tâm linh như vậy]]></content:encoded>
+      <pubDate>Wed, 08 Jul 2026 08:11:01 +0000</pubDate>
+      <enclosure url="https://thanglv05.github.io/my-podcast/audio/tts_1783498259.mp3" length="175680" type="audio/mpeg" />
+      <guid isPermaLink="false">ep_tbd3i9lqoc</guid>
+      <itunes:duration>00:00:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Một tuần sau, người đệ tử trở lại, mặt vui vẻ hẳn khoe với sư phụ là đã làm được việc thương những người mà trước đây đã từng đối xử tệ bạc với mình. Sư phụ gật gù bảo: “Tốt! Bây giờ con về tịnh tâm, ghi ơn họ. Nếu không có họ đóng những vai trò đó thì con đâu có cơ hội tiến hóa tâm linh như vậy</itunes:summary>
+    </item>
+  </channel>
+</rss>
