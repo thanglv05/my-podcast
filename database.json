@@ -1,0 +1,49 @@
+{
+  "githubConfig": {
+    "username": "thanglv05",
+    "repo": "my-podcast",
+    "token": "",
+    "audioPath": "audio"
+  },
+  "shows": {
+    "show_rvvcbwio": {
+      "id": "show_rvvcbwio",
+      "title": "Tâm Sự Đêm Khuya",
+      "author": "Nguyễn Văn A",
+      "ownerName": "Nguyễn Văn A",
+      "ownerEmail": "backlinkpodcast@likepion.com",
+      "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc",
+      "link": "https://thanglv05.github.io/my-podcast",
+      "description": "Kênh tâm sự về cuộc sống và con người.",
+      "language": "vi",
+      "explicit": "no",
+      "category": "Society & Culture",
+      "episodes": [
+        {
+          "guid": "ep_awb4y72my7",
+          "title": "Tập 02: Vượt qua khủng hoảng tuổi 20",
+          "audioUrl": "https://thanglv05.github.io/my-podcast/audio/1719875412_tap-02.mp3",
+          "fileSize": "32154869",
+          "mimeType": "audio/mpeg",
+          "duration": "00:32:15",
+          "pubDate": "2026-07-08T10:00",
+          "explicit": "no",
+          "type": "full",
+          "description": "Nội dung chia sẻ về cách vượt qua những khó khăn của tuổi trẻ."
+        },
+        {
+          "guid": "b72badeb-08b9-44af-b431-a4c8ba746160",
+          "title": "tập podcast 1",
+          "audioUrl": "https://thanglv05.github.io/my-podcast/audio/1783484324_file_example_MP3_700KB.mp3",
+          "fileSize": "733645",
+          "mimeType": "audio/mpeg",
+          "duration": "00:00:42",
+          "pubDate": "2026-07-08T11:17",
+          "explicit": "no",
+          "type": "full",
+          "description": "The performance of Apple phones is not just about dry statistics on the technical specifications table. Users often care about how the device performs during heavy tasks such as video editing or playing high-graphics games. Understanding how the processor handles temperature and energy management will help users maximize the hardware's potential. Detailed analysis of stability when running high-intensity applications is regularly updated at https://iphoneipadreview.com to help users make informed purchasing decisions based on their actual daily usage needs."
+        }
+      ]
+    }
+  }
+}
