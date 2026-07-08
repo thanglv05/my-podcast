@@ -49,5 +49,17 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:summary>The performance of Apple phones is not just about dry statistics on the technical specifications table. Users often care about how the device performs during heavy tasks such as video editing or playing high-graphics games. Understanding how the processor handles temperature and energy management will help users maximize the hardware&apos;s potential. Detailed analysis of stability when running high-intensity applications is regularly updated at https://iphoneipadreview.com to help users make informed purchasing decisions based on their actual daily usage needs.</itunes:summary>
     </item>
+    <item>
+      <title>Tập 02: Vượt qua khủng hoảng tuổi 20</title>
+      <description>Buổi chiều, khi hoàng hôn buông xuống trên dòng sông phẳng lặng, những tia nắng cuối ngày chiếu xuyên qua hàng cây, tạo nên một bức tranh thiên nhiên tuyệt đẹp. Tiếng chim hót líu lo hòa cùng tiếng gió rì rào như đang thì thầm kể về những câu chuyện xa xưa. Không gian yên bình ấy khiến tâm hồn mỗi người trở nên thư thái và nhẹ nhàng hơn bao giờ hết.</description>
+      <content:encoded><![CDATA[Buổi chiều, khi hoàng hôn buông xuống trên dòng sông phẳng lặng, những tia nắng cuối ngày chiếu xuyên qua hàng cây, tạo nên một bức tranh thiên nhiên tuyệt đẹp. Tiếng chim hót líu lo hòa cùng tiếng gió rì rào như đang thì thầm kể về những câu chuyện xa xưa. Không gian yên bình ấy khiến tâm hồn mỗi người trở nên thư thái và nhẹ nhàng hơn bao giờ hết.]]></content:encoded>
+      <pubDate>Wed, 08 Jul 2026 10:00:00 +0700</pubDate>
+      <enclosure url="https://thanglv05.github.io/my-podcast/audio/1719875412_tap-02.mp3" length="32154869" type="audio/mpeg" />
+      <guid isPermaLink="false">ep_x4r3amow1n</guid>
+      <itunes:duration>00:32:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Buổi chiều, khi hoàng hôn buông xuống trên dòng sông phẳng lặng, những tia nắng cuối ngày chiếu xuyên qua hàng cây, tạo nên một bức tranh thiên nhiên tuyệt đẹp. Tiếng chim hót líu lo hòa cùng tiếng gió rì rào như đang thì thầm kể về những câu chuyện xa xưa. Không gian yên bình ấy khiến tâm hồn mỗi người trở nên thư thái và nhẹ nhàng hơn bao giờ hết.</itunes:summary>
+    </item>
   </channel>
 </rss>
