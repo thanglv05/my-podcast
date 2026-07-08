@@ -1,0 +1,37 @@
+{
+  "title": "Cà Phê Công Nghệ",
+  "author": "PodRSS Team",
+  "ownerName": "PodRSS Admin",
+  "ownerEmail": "podrss-admin@example.com",
+  "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?q=80&w=1400&h=1400&fit=crop",
+  "link": "https://thanglv05.github.io/my-podcast",
+  "description": "Kênh chia sẻ kiến thức công nghệ, lập trình và cuộc sống số hàng tuần. Được xây dựng tự động bằng PodRSS Studio.",
+  "language": "vi",
+  "explicit": "no",
+  "category": "Technology",
+  "episodes": [
+    {
+      "guid": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+      "title": "Tập 01: Tại sao bạn nên tự chủ RSS Feed cho Podcast?",
+      "audioUrl": "https://example.com/audio/tap-01.mp3",
+      "fileSize": "45123984",
+      "mimeType": "audio/mpeg",
+      "duration": "00:45:12",
+      "pubDate": "2026-07-08T08:00",
+      "explicit": "no",
+      "description": "Trong tập đầu tiên này, chúng ta sẽ thảo luận về tầm quan trọng của việc sở hữu RSS Feed riêng, các giới hạn của nền tảng bên thứ ba và cách tối ưu hóa chi phí lưu trữ tệp âm thanh thông qua Cloudflare R2."
+    },
+    {
+      "guid": "66afd936-ae07-497e-a421-09b2a6256ddd",
+      "title": "test",
+      "audioUrl": "https://thanglv05.github.io/my-podcast/audio/1783480734_file_example_MP3_700KB.mp3",
+      "fileSize": "733645",
+      "mimeType": "audio/mpeg",
+      "duration": "00:00:42",
+      "pubDate": "2026-07-08T10:18",
+      "explicit": "no",
+      "type": "full",
+      "description": "Laptop: mở trang voucher để lưu mã đúng giờ.\nĐiện thoại: mở sẵn giỏ hàng hoặc trang thanh toán.\nKhi lưu được mã trên laptop, chuyển ngay sang điện thoại để bấm \"Đặt hàng\"."
+    }
+  ]
+}
