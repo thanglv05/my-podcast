@@ -6,30 +6,30 @@
     "audioPath": "audio"
   },
   "shows": {
-    "show_xvsibxqz": {
-      "id": "show_xvsibxqz",
-      "title": "likepion",
-      "author": "likepion",
-      "ownerName": "likepion",
-      "ownerEmail": "backlinkpodcast@likepion.com",
-      "image": "https://i.postimg.cc/J7fZWRSn/cover.jpg",
+    "show_be8iquho": {
+      "id": "show_be8iquho",
+      "title": "tenmiennhanhoa",
+      "author": "tenmiennhanhoa",
+      "ownerName": "tenmiennhanhoa",
+      "ownerEmail": "lambaoszw0l@likepion.com",
+      "image": "https://s3.likepion.com/data/lip/019f4063-7cc6-7770-924c-a444d9e48099.png",
       "link": "https://thanglv05.github.io/my-podcast",
-      "description": "xin chào mọi người",
+      "description": "Podcast này được tạo ra với mục tiêu chia sẻ những thông tin hữu ích, góc nhìn đa chiều và các nội dung mang tính giá trị dành cho nhiều đối tượng người nghe. Chúng tôi hướng đến sự rõ ràng, trung lập và dễ tiếp cận, giúp bạn tiếp nhận kiến thức và trải nghiệm mới một cách nhẹ nhàng và thực tế. Nội dung không giới hạn chủ đề, mang tính mở, linh hoạt và phù hợp để đồng hành cùng bạn trong học tập, công việc và cuộc sống hằng ngày.",
       "language": "vi",
       "explicit": "no",
-      "category": "Business",
+      "category": "Society & Culture",
       "episodes": [
         {
-          "guid": "ep_goajqyst9u",
-          "title": "Tập 02: Vượt qua khủng hoảng tuổi 20",
-          "audioUrl": "https://thanglv05.github.io/my-podcast/audio/tts_1783494872.mp3",
-          "fileSize": "196800",
+          "guid": "ep_tbd3i9lqoc",
+          "title": "xin chao moi nguoi",
+          "audioUrl": "https://thanglv05.github.io/my-podcast/audio/tts_1783498259.mp3",
+          "fileSize": "175680",
           "mimeType": "audio/mpeg",
           "duration": "00:00:28",
-          "pubDate": "2026-07-08T10:00",
+          "pubDate": "2026-07-08T08:11:01.878Z",
           "explicit": "no",
           "type": "full",
-          "description": "Hôm nay, thời tiết tại Hà Nội khá mát mẻ với nền nhiệt độ dao động quanh mức 28°C đến 32°C. Theo Trung tâm Dự báo Khí tượng Thủy văn Quốc gia, những cơn mưa rào bất chợt có thể xuất hiện vào chiều tối. Người dân khi tham gia giao thông nhớ mang theo áo mưa để đảm bảo sức khỏe và tránh những rắc rối không đáng có."
+          "description": "Một tuần sau, người đệ tử trở lại, mặt vui vẻ hẳn khoe với sư phụ là đã làm được việc thương những người mà trước đây đã từng đối xử tệ bạc với mình. Sư phụ gật gù bảo: “Tốt! Bây giờ con về tịnh tâm, ghi ơn họ. Nếu không có họ đóng những vai trò đó thì con đâu có cơ hội tiến hóa tâm linh như vậy"
         }
       ]
     }
