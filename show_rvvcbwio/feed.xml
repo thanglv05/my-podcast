@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://thanglv05.github.io/my-podcast/show_rvvcbwio/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Tâm Sự Đêm Khuya</title>
+    <description>Kênh tâm sự về cuộc sống và con người.</description>
+    <link>https://thanglv05.github.io/my-podcast</link>
+    <language>vi</language>
+    <copyright>Copyright © 2026 Nguyễn Văn A</copyright>
+    
+    <itunes:author>Nguyễn Văn A</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Kênh tâm sự về cuộc sống và con người.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    
+    <itunes:owner>
+      <itunes:name>Nguyễn Văn A</itunes:name>
+      <itunes:email>backlinkpodcast@likepion.com</itunes:email>
+    </itunes:owner>
+    
+    <itunes:image href="https://images.unsplash.com/photo-1590602847861-f357a9332bbc" />
+    
+    <itunes:category text="Society &amp; Culture" />
+
+    <item>
+      <title>Tập 02: Vượt qua khủng hoảng tuổi 20</title>
+      <description>Nội dung chia sẻ về cách vượt qua những khó khăn của tuổi trẻ.</description>
+      <content:encoded><![CDATA[Nội dung chia sẻ về cách vượt qua những khó khăn của tuổi trẻ.]]></content:encoded>
+      <pubDate>Wed, 08 Jul 2026 10:00:00 +0700</pubDate>
+      <enclosure url="https://thanglv05.github.io/my-podcast/audio/1719875412_tap-02.mp3" length="32154869" type="audio/mpeg" />
+      <guid isPermaLink="false">ep_awb4y72my7</guid>
+      <itunes:duration>00:32:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Nội dung chia sẻ về cách vượt qua những khó khăn của tuổi trẻ.</itunes:summary>
+    </item>
+    <item>
+      <title>tập podcast 1</title>
+      <description>The performance of Apple phones is not just about dry statistics on the technical specifications table. Users often care about how the device performs during heavy tasks such as video editing or playing high-graphics games. Understanding how the processor handles temperature and energy management will help users maximize the hardware&apos;s potential. Detailed analysis of stability when running high-intensity applications is regularly updated at https://iphoneipadreview.com to help users make informed purchasing decisions based on their actual daily usage needs.</description>
+      <content:encoded><![CDATA[The performance of Apple phones is not just about dry statistics on the technical specifications table. Users often care about how the device performs during heavy tasks such as video editing or playing high-graphics games. Understanding how the processor handles temperature and energy management will help users maximize the hardware's potential. Detailed analysis of stability when running high-intensity applications is regularly updated at <a href="https://iphoneipadreview.com" target="_blank">https://iphoneipadreview.com</a> to help users make informed purchasing decisions based on their actual daily usage needs.]]></content:encoded>
+      <pubDate>Wed, 08 Jul 2026 11:17:00 +0700</pubDate>
+      <enclosure url="https://thanglv05.github.io/my-podcast/audio/1783484324_file_example_MP3_700KB.mp3" length="733645" type="audio/mpeg" />
+      <guid isPermaLink="false">b72badeb-08b9-44af-b431-a4c8ba746160</guid>
+      <itunes:duration>00:00:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>The performance of Apple phones is not just about dry statistics on the technical specifications table. Users often care about how the device performs during heavy tasks such as video editing or playing high-graphics games. Understanding how the processor handles temperature and energy management will help users maximize the hardware&apos;s potential. Detailed analysis of stability when running high-intensity applications is regularly updated at https://iphoneipadreview.com to help users make informed purchasing decisions based on their actual daily usage needs.</itunes:summary>
+    </item>
+  </channel>
+</rss>
