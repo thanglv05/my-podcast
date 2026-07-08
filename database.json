@@ -6,12 +6,12 @@
     "audioPath": "audio"
   },
   "shows": {
-    "show_be8iquho": {
-      "id": "show_be8iquho",
-      "title": "tenmiennhanhoa",
-      "author": "tenmiennhanhoa",
-      "ownerName": "tenmiennhanhoa",
-      "ownerEmail": "lambaoszw0l@likepion.com",
+    "show_k6rjlovt": {
+      "id": "show_k6rjlovt",
+      "title": "anhlongdl1",
+      "author": "anhlongdl1",
+      "ownerName": "anhlongdl1",
+      "ownerEmail": "voyen0xv0q@likepion.com",
       "image": "https://s3.likepion.com/data/lip/019f4063-7cc6-7770-924c-a444d9e48099.png",
       "link": "https://thanglv05.github.io/my-podcast",
       "description": "Podcast này được tạo ra với mục tiêu chia sẻ những thông tin hữu ích, góc nhìn đa chiều và các nội dung mang tính giá trị dành cho nhiều đối tượng người nghe. Chúng tôi hướng đến sự rõ ràng, trung lập và dễ tiếp cận, giúp bạn tiếp nhận kiến thức và trải nghiệm mới một cách nhẹ nhàng và thực tế. Nội dung không giới hạn chủ đề, mang tính mở, linh hoạt và phù hợp để đồng hành cùng bạn trong học tập, công việc và cuộc sống hằng ngày.",
@@ -20,16 +20,16 @@
       "category": "Society & Culture",
       "episodes": [
         {
-          "guid": "ep_tbd3i9lqoc",
-          "title": "xin chao moi nguoi",
-          "audioUrl": "https://thanglv05.github.io/my-podcast/audio/tts_1783498259.mp3",
-          "fileSize": "175680",
+          "guid": "ep_ujmwgj7mtn",
+          "title": "Thu mua tủ đông tủ mát cũ giá cao tận nơi",
+          "audioUrl": "https://thanglv05.github.io/my-podcast/audio/tts_1783500761.mp3",
+          "fileSize": "504192",
           "mimeType": "audio/mpeg",
-          "duration": "00:00:28",
-          "pubDate": "2026-07-08T08:11:01.878Z",
+          "duration": "00:01:15",
+          "pubDate": "2026-07-08T08:52:43.550Z",
           "explicit": "no",
           "type": "full",
-          "description": "Một tuần sau, người đệ tử trở lại, mặt vui vẻ hẳn khoe với sư phụ là đã làm được việc thương những người mà trước đây đã từng đối xử tệ bạc với mình. Sư phụ gật gù bảo: “Tốt! Bây giờ con về tịnh tâm, ghi ơn họ. Nếu không có họ đóng những vai trò đó thì con đâu có cơ hội tiến hóa tâm linh như vậy"
+          "description": "Khi thiết bị điện lạnh trong nhà hàng hay quán cà phê bắt đầu xuống cấp, nhiều người thường băn khoăn không biết nên xử lý ra sao để vừa nhanh gọn lại có được giá trị hợp lý. Thực tế, tủ đông, tủ mát và cả dàn máy pha cà phê sau thời gian dài sử dụng vẫn còn hữu dụng, chỉ là chưa được khai thác đúng cách. Một hướng đi phổ biến hiện nay là tìm đến những dịch vụ chuyên thu mua tận nơi, giúp tiết kiệm thời gian vận chuyển và không phải lo về giá. Chẳng hạn, trên các trang như thumuatulanhcu.com, người dùng có thể tham khảo thông tin để kết nối với bên thu mua chuyên nghiệp tại TP.HCM và Bình Dương. Việc này không chỉ giải phóng không gian bếp mà còn bỏ túi một khoản chi phí đáng kể để đầu tư cho thiết bị mới. Quan trọng hơn, quá trình thanh lý diễn ra nhanh chóng, đúng hẹn, giúp chủ quán an tâm xoay vòng vốn liếng mà không phải loay hoay tìm người mua lẻ."
         }
       ]
     }
