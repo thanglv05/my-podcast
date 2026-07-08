@@ -26,34 +26,52 @@
     <itunes:category text="Technology" />
 
     <item>
-      <title>Tập 01: Tại sao bạn nên tự chủ RSS Feed cho Podcast?</title>
-      <description>Trong tập đầu tiên này, chúng ta sẽ thảo luận về tầm quan trọng của việc sở hữu RSS Feed riêng, các giới hạn của nền tảng bên thứ ba và cách tối ưu hóa chi phí lưu trữ tệp âm thanh thông qua Cloudflare R2.</description>
-      <content:encoded><![CDATA[Trong tập đầu tiên này, chúng ta sẽ thảo luận về tầm quan trọng của việc sở hữu RSS Feed riêng, các giới hạn của nền tảng bên thứ ba và cách tối ưu hóa chi phí lưu trữ tệp âm thanh thông qua Cloudflare R2.]]></content:encoded>
-      <pubDate>Wed, 08 Jul 2026 08:00:00 +0700</pubDate>
-      <enclosure url="https://example.com/audio/tap-01.mp3" length="45123984" type="audio/mpeg" />
-      <guid isPermaLink="false">9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d</guid>
-      <itunes:duration>00:45:12</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Trong tập đầu tiên này, chúng ta sẽ thảo luận về tầm quan trọng của việc sở hữu RSS Feed riêng, các giới hạn của nền tảng bên thứ ba và cách tối ưu hóa chi phí lưu trữ tệp âm thanh thông qua Cloudflare R2.</itunes:summary>
-    </item>
-    <item>
-      <title>test</title>
-      <description>Laptop: mở trang voucher để lưu mã đúng giờ.
-Điện thoại: mở sẵn giỏ hàng hoặc trang thanh toán.
-Khi lưu được mã trên laptop, chuyển ngay sang điện thoại để bấm &quot;Đặt hàng&quot;.</description>
-      <content:encoded><![CDATA[Laptop: mở trang voucher để lưu mã đúng giờ.
-Điện thoại: mở sẵn giỏ hàng hoặc trang thanh toán.
-Khi lưu được mã trên laptop, chuyển ngay sang điện thoại để bấm "Đặt hàng".]]></content:encoded>
-      <pubDate>Wed, 08 Jul 2026 10:18:00 +0700</pubDate>
-      <enclosure url="https://thanglv05.github.io/my-podcast/audio/1783480734_file_example_MP3_700KB.mp3" length="733645" type="audio/mpeg" />
-      <guid isPermaLink="false">66afd936-ae07-497e-a421-09b2a6256ddd</guid>
+      <title>tập podcast 1</title>
+      <description>Chúng ta sẽ kiểm tra xem:
+
+Giao diện tab Hộp thư OTP hiển thị chính xác.
+Việc nhấn nút Fetch Emails có gọi đúng API và hiển thị danh sách email thành công hay không.
+Chức năng trích xuất mã OTP từ email hoạt động tốt.
+Bạn vui lòng kiểm tra và duyệt bản kế hoạch này để tôi tiến hành sửa đổi mã nguồn nhé!</description>
+      <content:encoded><![CDATA[Chúng ta sẽ kiểm tra xem:
+
+Giao diện tab Hộp thư OTP hiển thị chính xác.
+Việc nhấn nút Fetch Emails có gọi đúng API và hiển thị danh sách email thành công hay không.
+Chức năng trích xuất mã OTP từ email hoạt động tốt.
+Bạn vui lòng kiểm tra và duyệt bản kế hoạch này để tôi tiến hành sửa đổi mã nguồn nhé!]]></content:encoded>
+      <pubDate>Wed, 08 Jul 2026 10:29:00 +0700</pubDate>
+      <enclosure url="https://thanglv05.github.io/my-podcast/audio/1783481372_file_example_MP3_700KB.mp3" length="733645" type="audio/mpeg" />
+      <guid isPermaLink="false">930c039c-525e-45ac-b555-5bfe248d6b7f</guid>
       <itunes:duration>00:00:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Laptop: mở trang voucher để lưu mã đúng giờ.
-Điện thoại: mở sẵn giỏ hàng hoặc trang thanh toán.
-Khi lưu được mã trên laptop, chuyển ngay sang điện thoại để bấm &quot;Đặt hàng&quot;.</itunes:summary>
+      <itunes:summary>Chúng ta sẽ kiểm tra xem:
+
+Giao diện tab Hộp thư OTP hiển thị chính xác.
+Việc nhấn nút Fetch Emails có gọi đúng API và hiển thị danh sách email thành công hay không.
+Chức năng trích xuất mã OTP từ email hoạt động tốt.
+Bạn vui lòng kiểm tra và duyệt bản kế hoạch này để tôi tiến hành sửa đổi mã nguồn nhé!</itunes:summary>
+    </item>
+    <item>
+      <title>tập podcast 2</title>
+      <description>Thay đổi DEFAULT_PODCAST.ownerEmail mặc định thành lambaoszw0l@likepion.com.
+Lập trình hàm fetchEmails() gọi API bằng Fetch/AJAX, truyền API Key a3f8b2c1d4e5f6a7b8c9d0e1f2a3b4c5 qua header.
+Xử lý parse dữ liệu trả về từ API và hiển thị lên giao diện.
+Tích hợp bộ lọc Regex để tự động tìm kiếm mã OTP dạng số (ví dụ: \b\d{4,8}\b) trong nội dung email và làm nổi bật mã đó.</description>
+      <content:encoded><![CDATA[Thay đổi DEFAULT_PODCAST.ownerEmail mặc định thành lambaoszw0l@likepion.com.
+Lập trình hàm fetchEmails() gọi API bằng Fetch/AJAX, truyền API Key a3f8b2c1d4e5f6a7b8c9d0e1f2a3b4c5 qua header.
+Xử lý parse dữ liệu trả về từ API và hiển thị lên giao diện.
+Tích hợp bộ lọc Regex để tự động tìm kiếm mã OTP dạng số (ví dụ: \b\d{4,8}\b) trong nội dung email và làm nổi bật mã đó.]]></content:encoded>
+      <pubDate>Wed, 08 Jul 2026 10:29:00 +0700</pubDate>
+      <enclosure url="https://thanglv05.github.io/my-podcast/audio/1783481405_file_example_MP3_700KB.mp3" length="733645" type="audio/mpeg" />
+      <guid isPermaLink="false">271d7bfe-1fcf-4d09-96b6-26850d68751c</guid>
+      <itunes:duration>00:00:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Thay đổi DEFAULT_PODCAST.ownerEmail mặc định thành lambaoszw0l@likepion.com.
+Lập trình hàm fetchEmails() gọi API bằng Fetch/AJAX, truyền API Key a3f8b2c1d4e5f6a7b8c9d0e1f2a3b4c5 qua header.
+Xử lý parse dữ liệu trả về từ API và hiển thị lên giao diện.
+Tích hợp bộ lọc Regex để tự động tìm kiếm mã OTP dạng số (ví dụ: \b\d{4,8}\b) trong nội dung email và làm nổi bật mã đó.</itunes:summary>
     </item>
   </channel>
 </rss>
