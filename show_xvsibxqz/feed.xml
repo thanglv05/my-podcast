@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://thanglv05.github.io/my-podcast/show_xvsibxqz/feed.xml" rel="self" type="application/rss+xml" />
+    <title>likepion</title>
+    <description>xin chào mọi người</description>
+    <link>https://thanglv05.github.io/my-podcast</link>
+    <language>vi</language>
+    <copyright>Copyright © 2026 likepion</copyright>
+    
+    <itunes:author>likepion</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>xin chào mọi người</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    
+    <itunes:owner>
+      <itunes:name>likepion</itunes:name>
+      <itunes:email>backlinkpodcast@likepion.com</itunes:email>
+    </itunes:owner>
+    
+    <itunes:image href="https://i.postimg.cc/J7fZWRSn/cover.jpg" />
+    
+    <itunes:category text="Business" />
+
+    <item>
+      <title>Tập 02: Vượt qua khủng hoảng tuổi 20</title>
+      <description>Hôm nay, thời tiết tại Hà Nội khá mát mẻ với nền nhiệt độ dao động quanh mức 28°C đến 32°C. Theo Trung tâm Dự báo Khí tượng Thủy văn Quốc gia, những cơn mưa rào bất chợt có thể xuất hiện vào chiều tối. Người dân khi tham gia giao thông nhớ mang theo áo mưa để đảm bảo sức khỏe và tránh những rắc rối không đáng có.</description>
+      <content:encoded><![CDATA[Hôm nay, thời tiết tại Hà Nội khá mát mẻ với nền nhiệt độ dao động quanh mức 28°C đến 32°C. Theo Trung tâm Dự báo Khí tượng Thủy văn Quốc gia, những cơn mưa rào bất chợt có thể xuất hiện vào chiều tối. Người dân khi tham gia giao thông nhớ mang theo áo mưa để đảm bảo sức khỏe và tránh những rắc rối không đáng có.]]></content:encoded>
+      <pubDate>Wed, 08 Jul 2026 10:00:00 +0700</pubDate>
+      <enclosure url="https://thanglv05.github.io/my-podcast/audio/tts_1783494872.mp3" length="196800" type="audio/mpeg" />
+      <guid isPermaLink="false">ep_goajqyst9u</guid>
+      <itunes:duration>00:00:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Hôm nay, thời tiết tại Hà Nội khá mát mẻ với nền nhiệt độ dao động quanh mức 28°C đến 32°C. Theo Trung tâm Dự báo Khí tượng Thủy văn Quốc gia, những cơn mưa rào bất chợt có thể xuất hiện vào chiều tối. Người dân khi tham gia giao thông nhớ mang theo áo mưa để đảm bảo sức khỏe và tránh những rắc rối không đáng có.</itunes:summary>
+    </item>
+  </channel>
+</rss>
