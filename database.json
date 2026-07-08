@@ -6,66 +6,30 @@
     "audioPath": "audio"
   },
   "shows": {
-    "show_rvvcbwio": {
-      "id": "show_rvvcbwio",
-      "title": "Tâm Sự Đêm Khuya",
-      "author": "Nguyễn Văn A",
-      "ownerName": "Nguyễn Văn A",
+    "show_xvsibxqz": {
+      "id": "show_xvsibxqz",
+      "title": "likepion",
+      "author": "likepion",
+      "ownerName": "likepion",
       "ownerEmail": "backlinkpodcast@likepion.com",
-      "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc",
+      "image": "https://i.postimg.cc/J7fZWRSn/cover.jpg",
       "link": "https://thanglv05.github.io/my-podcast",
-      "description": "Kênh tâm sự về cuộc sống và con người.",
+      "description": "xin chào mọi người",
       "language": "vi",
       "explicit": "no",
-      "category": "Society & Culture",
+      "category": "Business",
       "episodes": [
         {
-          "guid": "ep_awb4y72my7",
+          "guid": "ep_goajqyst9u",
           "title": "Tập 02: Vượt qua khủng hoảng tuổi 20",
-          "audioUrl": "https://thanglv05.github.io/my-podcast/audio/1719875412_tap-02.mp3",
-          "fileSize": "32154869",
+          "audioUrl": "https://thanglv05.github.io/my-podcast/audio/tts_1783494872.mp3",
+          "fileSize": "196800",
           "mimeType": "audio/mpeg",
-          "duration": "00:32:15",
+          "duration": "00:00:28",
           "pubDate": "2026-07-08T10:00",
           "explicit": "no",
           "type": "full",
-          "description": "Nội dung chia sẻ về cách vượt qua những khó khăn của tuổi trẻ."
-        },
-        {
-          "guid": "b72badeb-08b9-44af-b431-a4c8ba746160",
-          "title": "tập podcast 1",
-          "audioUrl": "https://thanglv05.github.io/my-podcast/audio/1783484324_file_example_MP3_700KB.mp3",
-          "fileSize": "733645",
-          "mimeType": "audio/mpeg",
-          "duration": "00:00:42",
-          "pubDate": "2026-07-08T11:17",
-          "explicit": "no",
-          "type": "full",
-          "description": "The performance of Apple phones is not just about dry statistics on the technical specifications table. Users often care about how the device performs during heavy tasks such as video editing or playing high-graphics games. Understanding how the processor handles temperature and energy management will help users maximize the hardware's potential. Detailed analysis of stability when running high-intensity applications is regularly updated at https://iphoneipadreview.com to help users make informed purchasing decisions based on their actual daily usage needs."
-        },
-        {
-          "guid": "ep_x4r3amow1n",
-          "title": "Tập 02: Vượt qua khủng hoảng tuổi 20",
-          "audioUrl": "https://thanglv05.github.io/my-podcast/audio/1719875412_tap-02.mp3",
-          "fileSize": "32154869",
-          "mimeType": "audio/mpeg",
-          "duration": "00:32:15",
-          "pubDate": "2026-07-08T10:00",
-          "explicit": "no",
-          "type": "full",
-          "description": "Buổi chiều, khi hoàng hôn buông xuống trên dòng sông phẳng lặng, những tia nắng cuối ngày chiếu xuyên qua hàng cây, tạo nên một bức tranh thiên nhiên tuyệt đẹp. Tiếng chim hót líu lo hòa cùng tiếng gió rì rào như đang thì thầm kể về những câu chuyện xa xưa. Không gian yên bình ấy khiến tâm hồn mỗi người trở nên thư thái và nhẹ nhàng hơn bao giờ hết."
-        },
-        {
-          "guid": "ep_51hqahcrd7",
-          "title": "Tập 03: tôi là lê văn thắng nhé các bạn",
-          "audioUrl": "https://thanglv05.github.io/my-podcast/audio/1719875412_tap-02.mp3",
-          "fileSize": "32154869",
-          "mimeType": "audio/mpeg",
-          "duration": "00:32:15",
-          "pubDate": "2026-07-08T10:00",
-          "explicit": "no",
-          "type": "full",
-          "description": "Buổi chiều, khi hoàng hôn buông xuống trên dòng sông phẳng lặng, những tia nắng cuối ngày chiếu xuyên qua hàng cây, tạo nên một bức tranh thiên nhiên tuyệt đẹp. Tiếng chim hót líu lo hòa cùng tiếng gió rì rào như đang thì thầm kể về những câu chuyện xa xưa. Không gian yên bình ấy khiến tâm hồn mỗi người trở nên thư thái và nhẹ nhàng hơn bao giờ hết."
+          "description": "Hôm nay, thời tiết tại Hà Nội khá mát mẻ với nền nhiệt độ dao động quanh mức 28°C đến 32°C. Theo Trung tâm Dự báo Khí tượng Thủy văn Quốc gia, những cơn mưa rào bất chợt có thể xuất hiện vào chiều tối. Người dân khi tham gia giao thông nhớ mang theo áo mưa để đảm bảo sức khỏe và tránh những rắc rối không đáng có."
         }
       ]
     }
