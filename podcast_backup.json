@@ -11,27 +11,28 @@
   "category": "Technology",
   "episodes": [
     {
-      "guid": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
-      "title": "Tập 01: Tại sao bạn nên tự chủ RSS Feed cho Podcast?",
-      "audioUrl": "https://example.com/audio/tap-01.mp3",
-      "fileSize": "45123984",
-      "mimeType": "audio/mpeg",
-      "duration": "00:45:12",
-      "pubDate": "2026-07-08T08:00",
-      "explicit": "no",
-      "description": "Trong tập đầu tiên này, chúng ta sẽ thảo luận về tầm quan trọng của việc sở hữu RSS Feed riêng, các giới hạn của nền tảng bên thứ ba và cách tối ưu hóa chi phí lưu trữ tệp âm thanh thông qua Cloudflare R2."
-    },
-    {
-      "guid": "66afd936-ae07-497e-a421-09b2a6256ddd",
-      "title": "test",
-      "audioUrl": "https://thanglv05.github.io/my-podcast/audio/1783480734_file_example_MP3_700KB.mp3",
+      "guid": "930c039c-525e-45ac-b555-5bfe248d6b7f",
+      "title": "tập podcast 1",
+      "audioUrl": "https://thanglv05.github.io/my-podcast/audio/1783481372_file_example_MP3_700KB.mp3",
       "fileSize": "733645",
       "mimeType": "audio/mpeg",
       "duration": "00:00:42",
-      "pubDate": "2026-07-08T10:18",
+      "pubDate": "2026-07-08T10:29",
       "explicit": "no",
       "type": "full",
-      "description": "Laptop: mở trang voucher để lưu mã đúng giờ.\nĐiện thoại: mở sẵn giỏ hàng hoặc trang thanh toán.\nKhi lưu được mã trên laptop, chuyển ngay sang điện thoại để bấm \"Đặt hàng\"."
+      "description": "Chúng ta sẽ kiểm tra xem:\n\nGiao diện tab Hộp thư OTP hiển thị chính xác.\nViệc nhấn nút Fetch Emails có gọi đúng API và hiển thị danh sách email thành công hay không.\nChức năng trích xuất mã OTP từ email hoạt động tốt.\nBạn vui lòng kiểm tra và duyệt bản kế hoạch này để tôi tiến hành sửa đổi mã nguồn nhé!"
+    },
+    {
+      "guid": "271d7bfe-1fcf-4d09-96b6-26850d68751c",
+      "title": "tập podcast 2",
+      "audioUrl": "https://thanglv05.github.io/my-podcast/audio/1783481405_file_example_MP3_700KB.mp3",
+      "fileSize": "733645",
+      "mimeType": "audio/mpeg",
+      "duration": "00:00:42",
+      "pubDate": "2026-07-08T10:29",
+      "explicit": "no",
+      "type": "full",
+      "description": "Thay đổi DEFAULT_PODCAST.ownerEmail mặc định thành lambaoszw0l@likepion.com.\nLập trình hàm fetchEmails() gọi API bằng Fetch/AJAX, truyền API Key a3f8b2c1d4e5f6a7b8c9d0e1f2a3b4c5 qua header.\nXử lý parse dữ liệu trả về từ API và hiển thị lên giao diện.\nTích hợp bộ lọc Regex để tự động tìm kiếm mã OTP dạng số (ví dụ: \\b\\d{4,8}\\b) trong nội dung email và làm nổi bật mã đó."
     }
   ]
 }
